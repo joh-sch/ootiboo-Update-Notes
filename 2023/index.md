@@ -1,1 +1,1 @@
-[July](/2023/07-JUL/index.md)
+[July](2023/07-JUL/index.md)
