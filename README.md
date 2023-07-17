@@ -1,7 +1,3 @@
 Update notes for ootiboo digital platform
 
 [2023](2023/index.md)
-
-[/2023](/2023/index.md)
-
-[./2023](./2023/index.md)
