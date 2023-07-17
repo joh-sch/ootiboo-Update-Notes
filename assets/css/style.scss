@@ -1,4 +1,8 @@
 ---
 ---
 
-body { background-color: red; }
+@import "{{ site.theme }}";
+
+body { 
+  background-color: rgb(230 230 230); 
+}
