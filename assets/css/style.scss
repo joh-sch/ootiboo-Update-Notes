@@ -10,3 +10,8 @@ body {
 img:not(.noBorder) {
   border: 1px solid;
 }
+
+h2 {
+  border: none;
+  text-align: center;
+}
